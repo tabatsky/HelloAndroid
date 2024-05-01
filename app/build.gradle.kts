@@ -5,12 +5,12 @@ plugins {
 
 android {
     namespace = "jatx.helloandroid"
-    compileSdk = 34
+    compileSdk = 33
 
     defaultConfig {
         applicationId = "jatx.helloandroid"
         minSdk = 28
-        targetSdk = 34
+        targetSdk = 33
         versionCode = 1
         versionName = "1.0"
 
